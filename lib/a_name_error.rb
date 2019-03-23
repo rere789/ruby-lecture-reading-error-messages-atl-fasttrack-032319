@@ -1,3 +1,5 @@
-"hello world"
+def greet(hello_world)
+  put "hello world"
+end
 
 hello_world
