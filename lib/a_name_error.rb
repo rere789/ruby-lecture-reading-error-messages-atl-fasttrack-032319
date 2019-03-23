@@ -2,4 +2,4 @@ def greet(hello_world)
   put "hello world"
 end
 
-hello_world
+hello_world()
